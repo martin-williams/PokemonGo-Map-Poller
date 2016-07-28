@@ -1,0 +1,26 @@
+{
+  "name": "pokemongo-map-poller",
+  "version": "1.0.0",
+  "description": "Polls PokemonGo-Map",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyscorp/PokemonGo-Map-Poller.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyscorp/PokemonGo-Map-Poller/issues"
+  },
+  "homepage": "https://github.com/tyscorp/PokemonGo-Map-Poller#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "geolib": "^2.0.21",
+    "lodash": "^4.14.0",
+    "lru-cache": "^4.0.1",
+    "node-fetch": "^1.5.3"
+  }
+}

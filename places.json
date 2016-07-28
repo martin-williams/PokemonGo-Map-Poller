@@ -1,0 +1,16 @@
+[
+    { "name": "the office", "latitude": 36.1178553, "longitude": -97.1205611 },
+    { "name": "the office lawn", "latitude": 36.1170041, "longitude": -97.1205682 },
+    { "name": "the office lawn", "latitude":36.1173411, "longitude": -97.1206179 },
+    { "name": "the lake (south)", "latitude": 36.1190723, "longitude": -97.1194204 },
+    { "name": "the lake (south)", "latitude":36.1182075, "longitude": -97.1194465 },
+    { "name": "the lake (north)", "latitude": 36.1197167, "longitude": -97.1194838 },
+    { "name": "the lake (north)", "latitude": 36.1205672, "longitude": -97.119526 },
+    { "name": "squires apartments", "latitude": 36.1181904, "longitude": -97.120994 },
+    { "name": "squires apartments", "latitude": 36.1186781, "longitude": -97.1203688 },
+    { "name": "frontier engineering pokestop", "latitude": 36.1177908, "longitude": -97.1192045 },
+    { "name": "frontier engineering", "latitude": 36.1170286, "longitude": -97.1191633 },
+    { "name": "stillwater powersports", "latitude": 36.1170415, "longitude": -97.1214657 },
+    { "name": "6th ave", "latitude": 36.1159689, "longitude": -97.1201648 },
+    { "name": "squires apartments", "latitude": 36.1195168, "longitude": -97.1207435 }
+]
